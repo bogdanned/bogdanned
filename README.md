@@ -1,4 +1,5 @@
-👨‍💻 About Me: Senior Software Engineer with 10+ years of succesful software delivery experience. Expert in JavaScript, TypeScript, React and Node.js. Specialized in Microservices Architecture and Event Driven Systems, leveraging AWS and Docker for cloud solutions. Led a team of 6+ developers at Enpal delivering projects worth over €5M+ € revenue and helping 200+ Junior Developers up skill to higher levels at theSeniorDev.
+### 👨‍💻 About Me: 
+Senior Software Engineer with 10+ years of successful software delivery experience. Expert in JavaScript, TypeScript, React and Node.js. Specialized in Microservices Architecture and Event Driven Systems, leveraging AWS and Docker for cloud solutions. Led a team of 6+ developers at Enpal delivering projects worth over €5M+ € revenue and helping 200+ Junior Developers up skill to higher levels at theSeniorDev.
 
 🛠️ My career path has blended continuous learning, technical leadership, teaching, and hands-on software development. This culminated at theSeniorDev.com where I currently serve as a Senior Software Engineer, Technical Co-founder, and Mentor.
 
